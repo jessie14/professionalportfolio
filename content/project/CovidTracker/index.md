@@ -1,9 +1,9 @@
 ---
-title: BC Chronic Disease Visualization and Trend Analysis 
-summary: UBC MDS Capstone Project in partnership with the Office of the Provincial Health Officer, Province of British Columbia.
+title: CovidTracker Python Software Package
+summary: A Python package designed for the easy retrieval and analysis of data pertaining to Covid trends in Canada, including information about cases, vaccinations and testing.
 tags:
-  - Capstone Project 
-date: '2022-05-01T00:00:00Z'
+  - Software Packages 
+date: '2022-02-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -26,7 +26,11 @@ links:
   - icon: github
     icon_pack: fab
     name: Github Repo
-    url: https://github.com/bcgov/opho-cdr-shiny
+    url: https://github.com/UBC-MDS/Group28-CovidTracker
+  - icon: book
+    icon_pack: fas
+    name: Documentation
+    url: https://covidtracker.readthedocs.io/en/latest/
     
     
 url_code: ''
