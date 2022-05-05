@@ -6,17 +6,23 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
+  - icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
-    icon: chart-line
+  - icon: python
+    icon_pack: fab
+    name: Python
+  - icon: database
+    icon_pack: fas
+    name: SQL
+  - icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - icon: chart-scatter-bubble
     icon_pack: fas
-    name: Photography
+    name: Data Visualization
+  - icon: square-root-variable
+    icon_pack: fas
+    name: Data Analysis
 active: true
 ---
