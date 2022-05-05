@@ -43,7 +43,6 @@ experience:
     date_start: '2019-06-01'
     date_end: '2019-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
-    
   - title: Clinical Research Assistant
     company: St.Paul's Hospital, Dept. of Orthopaedics
     company_url: ''
@@ -52,7 +51,6 @@ experience:
     date_start: '2018-05-01'
     date_end: '2018-012-31'
     description: Taught electronic engineering and researched semiconductor physics.
-    
   - title: Undergraduate Teaching Assistant
     company: Department of Computer Science, UBC
     company_url: ''
