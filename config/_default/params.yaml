@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Rose
-  theme_night: Rose
+  theme_day: rosegray
+  theme_night: rosegray
   font: minimal
   font_size: L
 
