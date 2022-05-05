@@ -1,9 +1,9 @@
 ---
-title: BC Chronic Disease Visualization and Trend Analysis 
-summary: UBC MDS Capstone Project in partnership with the Office of the Provincial Health Officer, Province of British Columbia.
+title: Prediction of Song Popularity
+summary: An data pipeline to train a regression-based model to predict the popularity of a song, given various features such as genre, duration, and tempo.
 tags:
-  - Capstone Project 
-date: '2022-05-01T00:00:00Z'
+  - Machine Learning 
+date: '2021-12-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -20,13 +20,13 @@ show_related:
 
 image:
   caption: 
-  focal_point: Smart
+  focal_point: Center
 
 links:
   - icon: github
     icon_pack: fab
     name: Github Repo
-    url: https://github.com/bcgov/opho-cdr-shiny
+    url: https://github.com/UBC-MDS/DSCI_522_Spotify_Track_Popularity_Predictor
     
     
 url_code: ''
