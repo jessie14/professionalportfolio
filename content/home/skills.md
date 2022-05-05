@@ -22,7 +22,7 @@ feature:
     icon_pack: fas
     name: Statistics
     description:  
-  - icon: chart-scatter
+  - icon: chart-area
     icon_pack: fas
     name: Data Visualization
     description:  
