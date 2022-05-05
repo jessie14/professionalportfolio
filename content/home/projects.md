@@ -12,6 +12,8 @@ weight: 40
 title: Technical Projects
 subtitle: ''
 
+date: false
+
 content:
   # Page type to display. E.g. project.
   page_type: project
