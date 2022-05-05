@@ -26,7 +26,11 @@ links:
   - icon: github
     icon_pack: fab
     name: Github Repo
-    url: https://github.com/bcgov/opho-cdr-shiny
+    url: https://github.com/UBC-MDS/Group28-CovidTracker
+  - icon: 
+    icon_pack:
+    name: Documentation
+    url: https://ubc-mds.github.io/Group28-CovidTracker-R/
     
     
 url_code: ''
