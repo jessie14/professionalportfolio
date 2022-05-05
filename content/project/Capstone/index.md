@@ -3,7 +3,7 @@ title: BC Chronic Disease Visualization and Trend Analysis
 summary: UBC MDS Capstone Project in partnership with the Office of the Provincial Health Officer, Province of British Columbia.
 tags:
   - Capstone Project 
-# date: '2022-05-01T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
