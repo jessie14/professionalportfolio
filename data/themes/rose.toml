@@ -3,14 +3,14 @@ name = "Rose"
 
 [light]
   # Primary
-  primary = "rgb(251, 191, 183)"
+  primary = "rgb(250, 179, 170)"
 
   # Menu
-  menu_primary = "rgb(247, 247, 247)"
+  menu_primary = "rgb(210, 210, 210)"
   menu_text = "#000"
   menu_text_active = "rgb(25, 25, 25)"
   menu_title = "#000"
 
   # Home sections
   home_section_odd = "#FFF"
-  home_section_even = "rgb(234, 242, 250)"
+  home_section_even = "rgb(225, 226, 227)"
