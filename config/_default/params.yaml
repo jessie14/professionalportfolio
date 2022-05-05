@@ -29,7 +29,7 @@ marketing:
 
 # Site header
 
-header: Jessie Wong
+header: 
   navbar:
     enable: true
     align: l
