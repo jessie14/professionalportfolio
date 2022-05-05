@@ -1,9 +1,9 @@
 ---
-title: BC Chronic Disease Visualization and Trend Analysis 
-summary: UBC MDS Capstone Project in partnership with the Office of the Provincial Health Officer, Province of British Columbia.
+title: Predicting Daily Rainfall in Australia 
+summary: Applied Big Data solutions to build and deploy an ensemble machine learning model on the AWS platform.
 tags:
-  - Capstone Project 
-date: '2022-05-01T00:00:00Z'
+  - Machine Learning 
+date: '2022-04-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -26,7 +26,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Github Repo
-    url: https://github.com/bcgov/opho-cdr-shiny
+    url: https://github.com/UBC-MDS/DSCI525-Group7
     
     
 url_code: ''
