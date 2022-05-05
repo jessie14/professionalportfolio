@@ -30,7 +30,6 @@ experience:
     date_start: '2020-07-01'
     date_end: '2021-08-31'
     description: |2-
-        
         * Created and maintained metadata of equipment and project documents 
         * Modelling
         * Deploying
@@ -42,7 +41,10 @@ experience:
     location: Vancouver, BC
     date_start: '2019-06-01'
     date_end: '2019-08-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        * Created and maintained metadata of equipment and project documents 
+        * Modelling
+        * Deploying
   - title: Clinical Research Assistant
     company: St.Paul's Hospital, Dept. of Orthopaedics
     company_url: ''
@@ -50,16 +52,21 @@ experience:
     location: Vancouver, BC
     date_start: '2018-05-01'
     date_end: '2018-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-  - title: Clinical Research Assistant
-    company: St.Paul's Hospital, Dept. of Orthopaedics
+    description: |2-
+        * Created and maintained metadata of equipment and project documents 
+        * Modelling
+        * Deploying
+  - title: Undergraduate Teaching Assistant
+    company: Department of Computer Science, UBC
     company_url: ''
     company_logo: 
     location: Vancouver, BC
-    date_start: '2018-05-01'
-    date_end: '2018-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    date_start: '2017-09-01'
+    date_end: '2020-04-30'
+    description: |2-
+        * Created and maintained metadata of equipment and project documents 
+        * Modelling
+        * Deploying
  
 design:
   columns: '2'
