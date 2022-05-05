@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    mailto: jessiewong07@gmail.com
+    link: mailto:jessiewong07@gmail.com
     label: Email
   - icon: github
     icon_pack: fab
