@@ -9,7 +9,7 @@ feature:
   - icon: r-project
     icon_pack: fab
     name: R
-    description:   .    
+    description:       
   - icon: python
     icon_pack: fab
     name: Python
