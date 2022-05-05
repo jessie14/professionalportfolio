@@ -1,9 +1,9 @@
 ---
-title: BC Chronic Disease Visualization and Trend Analysis 
-summary: UBC MDS Capstone Project in partnership with the Office of the Provincial Health Officer, Province of British Columbia.
+title: CovidTrackerR Software Package
+summary: An R packaged designed for the easy retrieval and analysis of data pertaining to Covid trends in Canada, including information about cases, vaccinations and testing. 
 tags:
-  - Capstone Project 
-date: '2022-05-01T00:00:00Z'
+  -  Software Packages 
+date: '2022-02-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -26,9 +26,9 @@ links:
   - icon: github
     icon_pack: fab
     name: Github Repo
-    url: https://github.com/UBC-MDS/Group28-CovidTracker
-  - icon: 
-    icon_pack:
+    url: https://github.com/UBC-MDS/Group28-CovidTracker-R
+  - icon: book
+    icon_pack: fas
     name: Documentation
     url: https://ubc-mds.github.io/Group28-CovidTracker-R/
     
