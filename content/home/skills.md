@@ -9,7 +9,7 @@ feature:
   - icon: r-project
     icon_pack: fab
     name: R
-    description:       
+    description:   .    
   - icon: python
     icon_pack: fab
     name: Python
@@ -29,6 +29,6 @@ feature:
   - icon: square-root-variable
     icon_pack: fas
     name: Data Analysis
-    description:      100
+    description:      
 active: true
 ---
