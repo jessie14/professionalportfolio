@@ -44,7 +44,8 @@ highlight_name: true
 ---
 I am a soon-to-be graduate of the UBC Master of Data Science Program. My interests are in data visualization and statistical problem solving, and I am passionate about applying data science and statistical techniques to create positive real-world impact. My background is in Mechanical Engineering, and I have previously worked in several different industries including mining, construction, and healthcare.
 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/jessiewong_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
 
 
-
+-----------
