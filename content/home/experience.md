@@ -49,7 +49,15 @@ experience:
     company_logo: 
     location: Vancouver, BC
     date_start: '2018-05-01'
-    date_end: '2018-012-31'
+    date_end: '2018-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Clinical Research Assistant
+    company: St.Paul's Hospital, Dept. of Orthopaedics
+    company_url: ''
+    company_logo: 
+    location: Vancouver, BC
+    date_start: '2018-05-01'
+    date_end: '2018-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
  
