@@ -4,10 +4,9 @@ role: UBC Master of Data Science Graduate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Data Science
-  - Machine Learning
   - Data Visualization
-  - Data Analysis Pipelines
+  - Machine Learning
+  - Statistical Data Analysis
   - Programming in R and Python
 social:
   - icon: envelope
