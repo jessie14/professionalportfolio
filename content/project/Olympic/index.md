@@ -1,9 +1,9 @@
 ---
-title: BC Chronic Disease Visualization and Trend Analysis 
-summary: UBC MDS Capstone Project in partnership with the Office of the Provincial Health Officer, Province of British Columbia.
+title: Olympic Athletes Dashboard (Python)
+summary: An interactive dashboard to visualize and explore demographic information of Olympic athletes from 1896 to 2016.
 tags:
-  - Capstone Project 
-date: '2022-05-01T00:00:00Z'
+  - Dashboards  
+date: '2022-03-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -26,7 +26,11 @@ links:
   - icon: github
     icon_pack: fab
     name: Github Repo
-    url: https://github.com/bcgov/opho-cdr-shiny
+    url: https://github.com/UBC-MDS/Olympic_athletes_dashboard
+  - icon: chart-column
+    icon_pack: fas
+    name: Dashboard
+    url: https://olympic-athletes-dash.herokuapp.com/
     
     
 url_code: ''
