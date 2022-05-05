@@ -51,15 +51,7 @@ experience:
     date_start: '2018-05-01'
     date_end: '2018-012-31'
     description: Taught electronic engineering and researched semiconductor physics.
-  - title: Undergraduate Teaching Assistant
-    company: Department of Computer Science, UBC
-    company_url: ''
-    company_logo: 
-    location: Vancouver, BC
-    date_start: '2017-09-01'
-    date_end: '2020-4-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
+
  
 design:
   columns: '2'
