@@ -26,7 +26,7 @@ experience:
     company: Wood Canada Ltd.
     company_url: ''
     company_logo: 
-    location: Vancouver, BC
+    location: "Vancouver, BC"
     date_start: '2020-07-01'
     date_end: '2021-08-31'
     description: |2-
@@ -53,15 +53,7 @@ experience:
     date_end: '2018-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
     
-  - title: Undergraduate Teaching Assistant
-    company: Department of Computer Science, UBC
-    company_url: ''
-    company_logo: 
-    location: Vancouver, BC
-    date_start: '2017-09-01'
-    date_end: '2020-04-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+ 
 design:
   columns: '2'
 ---
