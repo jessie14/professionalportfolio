@@ -9,8 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Projects
+title: Technical Projects
 subtitle: ''
+
+date: false
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +29,15 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Capstone Project
+      tag: Capstone Project
+    - name: Machine Learning
+      tag: Machine Learning
+    - name: Dashboards
+      tag: Dashboards
+    - name: Software Packages 
+      tag: Software Packages 
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,7 +48,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

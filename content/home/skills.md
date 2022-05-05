@@ -29,6 +29,6 @@ feature:
   - icon: square-root-variable
     icon_pack: fas
     name: Data Analysis
-    description:      100
+    description:      
 active: true
 ---

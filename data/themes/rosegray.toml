@@ -1,0 +1,16 @@
+# Theme metadata
+name = "rosegray"
+
+[light]
+  # Primary
+  primary = "rgb(250, 179, 170)"
+
+  # Menu
+  menu_primary = "rgb(225, 225, 225)"
+  menu_text = "#000"
+  menu_text_active = "rgb(25, 25, 25)"
+  menu_title = "#000"
+
+  # Home sections
+  home_section_odd = "#FFF"
+  home_section_even = "rgb(245, 245, 245)"

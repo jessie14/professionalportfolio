@@ -6,10 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: rosegray
+  theme_night: rosegray
   font: minimal
   font_size: L
+  
+
 
 # SEO
 
@@ -35,7 +37,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -94,6 +96,15 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+    
+  show_related:
+    docs: false
+    page: false
+    post: false
+    project: false
+    publication: false
+    talk: false
+    event: false
 
 # Extensions
 
