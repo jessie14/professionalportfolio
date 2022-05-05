@@ -10,6 +10,8 @@ appearance:
   theme_night: rosegray
   font: minimal
   font_size: L
+  
+show_related: false
 
 # SEO
 
@@ -35,7 +37,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
