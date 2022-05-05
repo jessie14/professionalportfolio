@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: email
+    link: jessiewong07@gmail.com
     label: Email
   - icon: github
     icon_pack: fab
@@ -21,12 +21,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jessie-wong1997/
     label: LinkedIn
-  - display:
-      header: false
-    link: https://jessiewong.netlify.app/
-    label: CV
-    icon: CV
-    icon_pack: ai
+#  - display:
+#      header: false
+#    link: https://jessiewong.netlify.app/
+#    label: CV
+#    icon: CV
+#    icon_pack: ai
 organizations:
   - name: University of British Columbia
     url: https://www.ubc.ca/
@@ -44,4 +44,7 @@ highlight_name: true
 ---
 I am a soon-to-be graduate of the UBC Master of Data Science Program. My interests are in data visualization and statistical problem solving, and I am passionate about applying data science and statistical techniques to create positive real-world impact. My background is in Mechanical Engineering, and I have previously worked in several different industries including mining, construction, and healthcare.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/jessiewong_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/jessiewong_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
+
+
+
