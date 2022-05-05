@@ -8,16 +8,20 @@ date: '2016-04-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+show_related: false
+
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
+    name: Github Repo
     url: https://twitter.com/georgecushen
-url_code: 'https://pages.github.ubc.ca/mds-2021-22/DSCI_554_exper-causal-inf_students/lectures/lecture3_randomization_and_blocking.html'
+    
+    
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
