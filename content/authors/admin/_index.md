@@ -1,9 +1,8 @@
 ---
 title: Jessie Wong
 role: UBC Master of Data Science Graduate
-avatar_filename: ubc_20211105_pj_6836.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg
+bio: ""
 interests:
   - Data Science
   - Machine Learning
@@ -44,6 +43,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a soon to be graduate of the UBC Master of Data Science Program.
+I am a soon-to-be graduate of the UBC Master of Data Science Program. I am passionate about data visualization and analytics, and my goal is to utilize data science and statistical techniques to create real-world positive impact. My background is in Mechanical Engineering, and I have previously worked in several different industries including mining, construction, and healthcare.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/jessiewong_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
