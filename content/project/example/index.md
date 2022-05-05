@@ -6,7 +6,7 @@ tags:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://pages.github.ubc.ca/mds-2021-22/DSCI_554_exper-causal-inf_students/lectures/lecture3_randomization_and_blocking.html'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
