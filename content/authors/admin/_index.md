@@ -38,7 +38,7 @@ education:
     - course: BASc in Mechanical Engineering
       institution: University of British Columbia
       year: 2020
-email: ""
+email: "jessiewong07@gmail.com"
 superuser: true
 highlight_name: true
 ---
