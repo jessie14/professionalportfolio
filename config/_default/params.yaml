@@ -11,7 +11,7 @@ appearance:
   font: minimal
   font_size: L
   
-show_related: false
+show_related: {docs: false, page = false, post = false, project = false, publication = false, talk = false}
 
 # SEO
 
