@@ -9,6 +9,7 @@ tags:
 external_link: ''
 
 share: false
+show_date: false
 
 show_related:
   docs: false
