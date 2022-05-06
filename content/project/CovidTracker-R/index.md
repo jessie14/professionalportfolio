@@ -53,5 +53,5 @@ The CovidTrackerR package is a software package in R that provides basic data cl
 * `plot_geographical()` : Plots choropleth map of selected Covid data across Canada
 * `calculate_stat_summary()`: Returns key statistical information about Covid data, such as long run trends and comparisons between provinces
 
-Through this project I demonstrated appropriate use of collaborative software development processes and tools, including packaging code for use by others, using advanced distributed version control workflows and features to effectively manage a multi-person project, writing comprehensive test suites, and carrying out continuous integration via GitHub Actions. The documentation for this package was built using Roxygen and pkgdown, and can be found [here](https://ubc-mds.github.io/Group28-CovidTracker-R/)
+Through this project I demonstrated appropriate use of collaborative software development processes and tools, including packaging code for use by others, using advanced distributed version control workflows and features to effectively manage a multi-person project, writing comprehensive test suites, and carrying out continuous integration via GitHub Actions. The documentation for this package was built using Roxygen and pkgdown, and can be found [here](https://ubc-mds.github.io/Group28-CovidTracker-R/).
 
