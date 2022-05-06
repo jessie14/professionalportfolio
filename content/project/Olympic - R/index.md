@@ -21,6 +21,7 @@ show_related:
 
 image:
   caption: 
+  placement: 1
   focal_point: Center
 
 links:
