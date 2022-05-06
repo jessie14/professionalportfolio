@@ -29,6 +29,10 @@ links:
     icon_pack: fab
     name: Github Repo
     url: https://github.com/UBC-MDS/DSCI_522_Spotify_Track_Popularity_Predictor
+  - icon: book
+    icon_pack: fas
+    name: Report
+    url: static/uploads/Report.pdf 
     
     
 url_code: ''
@@ -43,4 +47,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+Millions of new songs are released every year, but only a small fraction of them become popular. With new artists and new songs constantly emerging in the booming music industry, it has become increasing competitive for artists to release the most popular songs. Having an algorithm that predicts how popular a new song will be can be an effective tool for artists writing new music to determine if they will become major hits.
