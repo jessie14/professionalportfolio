@@ -1,6 +1,6 @@
 ---
 title: Predicting Daily Rainfall in Australia 
-summary: Applied Big Data solutions to build and deploy an ensemble machine learning model on the AWS platform.
+summary: An ensemble machine learning model built using Big Data solutions and deployed on the AWS platform.
 tags:
   - Machine Learning 
 date: '2022-04-30T00:00:00Z'
@@ -9,6 +9,7 @@ date: '2022-04-30T00:00:00Z'
 external_link: ''
 
 share: false
+show_date: false
 
 show_related:
   docs: false
@@ -41,6 +42,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Millions of people in BC live with a chronic disease, so it's important to understand and interpret the distribution of disease prevalence throughout the province for a variety of reasons. We may want to know how to best allocate healthcare resources, or to identify if a specific region is experiencing rapid growth of a disease. 
 
-To visualize the spatial and temporal trends of disease prevalence in the province, we will build an interactive dashboard that will allow users to compare the incidence rates of various diseases in one specific health region over time, as well as to compare how the incidence and prevalence rates of one disease has varied across several health regions over time. We also plan to create an information page in the dashboard containing descriptions of variables and diseases to increase understability for non-technical users.
+Data can come from many different sources, such as online networks, web pages, audio and video devices, social media platforms and many other sources. Some of the largest sources of data are social media platforms and networks. For example, Facebook generates more than 500 terabytes of data everyday in the form of pictures, videos, messages, and more. When dealing with such massive amounts of data, we can no longer use traditional tools to store, process, or analyze the data. Instead, we rely on big data technologies to help collect and store large datasets, as well as to analyze the data to uncover new and valuable insights.
+
+In this project I used a variety of big data solutions including Hadoop and Spark to train a RandomForest Regressor model that predicts the rainfall in Sydney, Australia, which was deployed to the AWS platform. The model was trained on a large dataset around 6GB, where the features are outputs of different climate models and the target is the observed rainfall observation. The dataset used is can be found on [figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681). The first step of the process was to retrieve the data from the web using API, process the data, then convert it to an efficient file format. I then moved the data to cloud, setup the infrastructure in the cloud and built a machine learning model. This involved setting up an EC2 instance in AWS, moving data in an S3 bucket, and data wrangling. Next, I set up a distributed infrastructure to run the machine learning model by setting up an EMR cluster with Spark, Hadoop, and JupyterHub, which was used to train and optimize the model. Specifically, Spark's MLlib was used to optimize the hyperparameters for the model.  Lastly, the model was deployed in an EC2 instance on the cloud as a REST API using the FLASK web framework to allow other consumers to use it.
