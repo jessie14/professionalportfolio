@@ -1,14 +1,15 @@
 ---
-title: CovidTracker Python Software Package
+title: CovidTracker 
 summary: A Python package designed for the easy retrieval and analysis of data pertaining to Covid trends in Canada, including information about cases, vaccinations and testing.
 tags:
   - Software Packages 
-date: '2022-02-02T00:00:00Z'
+date: '2022-02-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 share: false
+show_date: false
 
 show_related:
   docs: false
@@ -45,6 +46,11 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Millions of people in BC live with a chronic disease, so it's important to understand and interpret the distribution of disease prevalence throughout the province for a variety of reasons. We may want to know how to best allocate healthcare resources, or to identify if a specific region is experiencing rapid growth of a disease. 
 
-To visualize the spatial and temporal trends of disease prevalence in the province, we will build an interactive dashboard that will allow users to compare the incidence rates of various diseases in one specific health region over time, as well as to compare how the incidence and prevalence rates of one disease has varied across several health regions over time. We also plan to create an information page in the dashboard containing descriptions of variables and diseases to increase understability for non-technical users.
+The CovidTracker package is a software package in Python that provides basic data cleaning, wrangling and plotting of real time Covid tracking data in Canada. The package serves as a wrapper for the opencovid.ca API, and provides additional helper functions for visualising the data, as a time series or in the form of a map, as well as provides summary statistics of the data. The package consists of four functions, each listed below with their respective purpposes:
+* `get_covid_data()` : Retrieves cleaned and formatted data of specified type and within (optionally) provided time ranges and locations
+* `plot_time_series()` : Plots time series trends in selected Covid data, including options for trendlines and smoothing
+* `plot_geographical()` : Plots choropleth map of selected Covid data across Canada
+* `calculate_stat_summary()`: Returns key statistical information about Covid data, such as long run trends and comparisons between provinces
+
+Through this project I demonstrated appropriate use of collaborative software development processes and tools, including packaging code for use by others, using advanced distributed version control workflows and features to effectively manage a multi-person project, writing comprehensive test suites, and carrying out continuous integration via GitHub Actions. This package is published on PyPI, and the [documentation](https://covidtracker.readthedocs.io/en/latest/) for this package was built using Sphinx & Read the Docs.
