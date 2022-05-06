@@ -3,12 +3,13 @@ title: Prediction of Song Popularity
 summary: An data pipeline to train a regression-based model to predict the popularity of a song, given various features such as genre, duration, and tempo.
 tags:
   - Machine Learning 
-date: '2021-12-01T00:00:00Z'
+date: '2022-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 share: false
+show_date: false
 
 show_related:
   docs: false
@@ -20,6 +21,7 @@ show_related:
 
 image:
   caption: 
+  placement: 1
   focal_point: Center
 
 links:
