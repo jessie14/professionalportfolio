@@ -22,7 +22,7 @@ show_related:
 image:
   caption: 
   placement: 1
-  focal_point: Center
+#  focal_point: Center
 
 links:
   - icon: github
