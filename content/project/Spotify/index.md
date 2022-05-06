@@ -22,7 +22,7 @@ show_related:
 image:
   caption: 
   placement: 2
-  focal_point: Right
+  focal_point: Center
 
 links:
   - icon: github
@@ -32,7 +32,7 @@ links:
   - icon: book
     icon_pack: fas
     name: Report
-    url: static/uploads/Report.pdf 
+    url: uploads/Report.pdf 
     
     
 url_code: ''
