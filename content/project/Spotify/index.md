@@ -3,7 +3,7 @@ title: Prediction of Song Popularity
 summary: An data pipeline to train a regression-based model to predict the popularity of a song, given various features such as genre, duration, and tempo.
 tags:
   - Machine Learning 
-date: '2022-03-01T00:00:00Z'
+date: '2022-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -22,7 +22,7 @@ show_related:
 image:
   caption: 
   placement: 2
-#  focal_point: Center
+  focal_point: Right
 
 links:
   - icon: github
@@ -43,6 +43,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Millions of people in BC live with a chronic disease, so it's important to understand and interpret the distribution of disease prevalence throughout the province for a variety of reasons. We may want to know how to best allocate healthcare resources, or to identify if a specific region is experiencing rapid growth of a disease. 
 
-To visualize the spatial and temporal trends of disease prevalence in the province, we will build an interactive dashboard that will allow users to compare the incidence rates of various diseases in one specific health region over time, as well as to compare how the incidence and prevalence rates of one disease has varied across several health regions over time. We also plan to create an information page in the dashboard containing descriptions of variables and diseases to increase understability for non-technical users.
