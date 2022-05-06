@@ -47,4 +47,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Millions of new songs are released every year, but only a small fraction of them become popular. With new artists and new songs constantly emerging in the booming music industry, it has become increasing competitive for artists to release the most popular songs. Having an algorithm that predicts how popular a new song will be can be an effective tool for artists writing new music to determine if they will become major hits.
+Millions of new songs are released every year, but only a small fraction of them become popular. With new artists and new songs constantly emerging in the booming music industry, it has become increasing competitive for artists to release the most popular songs. Having an algorithm that predicts how popular a new song will be can be an effective tool for artists writing new music to determine if they will become major hits. 
+
+In this project, I built a data pipeline that cleans the data, then builds and trains a Ridge regression model to predict the popularity of a Spotify song, given various features such as genre, duration, and tempo. Cross validation was carried out, and hyperparameter optimization was performed using RandomizedSearchCV. Through this project I gained experience managing project software and environment dependencies using Docker, and automating data science workflows using Make. I learned to write R, Python and shell scripts for non-interactive data analysis and run literate coding documents non-interactively.
+
+The data used in the project was sourced from Tidy Tuesday and can be found [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-09-14/readme.md).
+A report of the full analysis can be found [here](uploads/Report.pdf)
