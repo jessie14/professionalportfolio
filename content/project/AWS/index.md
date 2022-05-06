@@ -1,6 +1,6 @@
 ---
 title: Predicting Daily Rainfall in Australia 
-summary: An ensemble machine learning model built using Big Data solutions and deployed on the AWS platform.
+summary: An ensemble machine learning model built using Big Data technologies and deployed on the AWS platform.
 tags:
   - Machine Learning 
 date: '2022-04-30T00:00:00Z'
