@@ -1,6 +1,6 @@
 ---
 title: Olympic Athletes Dashboard (R)
-summary: Interactive Dashboard to visualize and explore demographic information of Olympic athletes from 1896 to 2016
+summary: An interactive dashboard to visualize and explore demographic information of Olympic athletes from 1896 to 2016
 tags:
   - Dashboards 
 date: '2022-03-16T00:00:00Z'
@@ -9,6 +9,7 @@ date: '2022-03-16T00:00:00Z'
 external_link: ''
 
 share: false
+show_date: false
 
 show_related:
   docs: false
@@ -20,14 +21,14 @@ show_related:
 
 image:
   caption: 
-  focal_point: Smart
+  focal_point: Center
 
 links:
   - icon: github
     icon_pack: fab
     name: Github Repo
     url: https://github.com/UBC-MDS/Olympic_athletes_dashboard-R
-  - icon: chart-candlestick
+  - icon: chart-column
     icon_pack: fas
     name: Dashboard
     url: https://olympic-athletes-dash-r.herokuapp.com/
@@ -45,6 +46,11 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Millions of people in BC live with a chronic disease, so it's important to understand and interpret the distribution of disease prevalence throughout the province for a variety of reasons. We may want to know how to best allocate healthcare resources, or to identify if a specific region is experiencing rapid growth of a disease. 
 
-To visualize the spatial and temporal trends of disease prevalence in the province, we will build an interactive dashboard that will allow users to compare the incidence rates of various diseases in one specific health region over time, as well as to compare how the incidence and prevalence rates of one disease has varied across several health regions over time. We also plan to create an information page in the dashboard containing descriptions of variables and diseases to increase understability for non-technical users.
+The Olympic Games involve a large number of athletes from a variety of backgrounds, as well as personal attributes (height, weight, age). Olympic committees have an interest in identifying talented individuals for various sports at an early point in order to bolster their olympic teams. To address this, we built a data dashboard which allows olympic committees to explore historical trends in various athletes across all years and sports. The dashboard displays the distributions of athlete attributes, which can be filtered by medals won, country, olympic years, and sport, such that users can make quick comparisons and understand long-term trends in the data. The data used in the dashboard is sourced from Tidy Tuesday [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-07-27/readme.md)
+
+The dashboard framework was built using Plotly Dash R, and HTML and CSS components were used to create stylistic customizations. The dashboard consists of 4 plots: 3 histograms for athletes' Age, Weight, and Height distribution with two colors to distinguish genders that can interactively zoom in or out, and a map which shows the number of athletes per country. There are 5 filters on the left side bar: a slider for year range selection, two drop-down menus for sports and countries, and two radio buttons to select medal and season. The dashboard is hosted publicly using Heroku.
+
+A quick demonstration of the dashboard functionalities is shown below, and the full dashboard can be found [here](https://github.com/UBC-MDS/Group28-CovidTracker-R).
+
+![screen reader text](Olympic_athletes_dashboard_R.gif "Olympic Athletes Dashboard")
